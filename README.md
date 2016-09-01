@@ -1,4 +1,6 @@
-# docker-scm-gitlab
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?maxAge=2592000)](https://hub.docker.com/r/devopsopen/docker-scm-gitlab/)
+
+# Software Version Control Managemnet - GitLab
 Software Version Control Managemnet gitlab image for Open DevOps Pipeline
 
 #docker pull
