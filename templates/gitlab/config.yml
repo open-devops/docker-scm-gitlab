@@ -1,0 +1,8 @@
+name: OpenDevOps-Gitlab
+description: |
+  Open DevOps Gitlab Catalog
+version: 1.0.0
+category: SCM
+maintainer: open.devops@gmail.com
+license: Apache 2
+projectURL: https://github.com/open-devops/docker-scm-gitlab

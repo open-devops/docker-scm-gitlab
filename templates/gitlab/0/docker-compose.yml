@@ -1,0 +1,5 @@
+# source configuration management: gitlab
+gitlab:
+  image: devopsopen/docker-scm-gitlab
+  ports:
+    - "19010:80"
